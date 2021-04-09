@@ -1,0 +1,6 @@
+name: NeptuneTrident
+version: ${project.version}
+main: me.advait.neptunetrident.NeptuneTrident
+api-version: 1.16
+authors: [Advait]
+description: The ultimate Minecraft trident.
